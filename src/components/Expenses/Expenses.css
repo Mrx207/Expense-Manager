@@ -1,0 +1,8 @@
+.expenses {
+  align-items: center;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  background-color: rgb(31, 31, 31);
+}
